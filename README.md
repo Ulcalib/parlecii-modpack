@@ -1,3 +1,6 @@
+# Modpack can be downloaded from [Dormeo](https://modrinth.com/modpack/dormeo)
+
+
 ### This modpack aims to give a mostly vanilla experience and is meant to be played with friends.
 
 ### The modpack was created with [Fabulously Optimized](https://modrinth.com/modpack/fabulously-optimized) as the base and mods were added on top to make for a better multiplayer or singleplayer playthrough.
