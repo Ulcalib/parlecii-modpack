@@ -1,11 +1,11 @@
-# Modpack can be downloaded from [Dormeo](https://modrinth.com/modpack/dormeo)
+# Modpack can be downloaded from [Parlecii Pack](https://modrinth.com/modpack/parlecii-pack)
 
 
-### This modpack aims to give a mostly vanilla experience and is meant to be played with friends.
+This modpack aims to give a mostly vanilla experience and is meant to be played with friends.
 
-### The modpack was created with [Fabulously Optimized](https://modrinth.com/modpack/fabulously-optimized) as the base and mods were added on top to make for a better multiplayer or singleplayer playthrough.
 
-## With the modpack You and Your friends can:
+### Features
+With the modpack You and Your friends can:
 - play in VR
 - use shaders
 - talk with your friends in game
@@ -16,7 +16,9 @@
 - host your world with [e4mc](https://modrinth.com/mod/e4mc), to play if you dont have a dedicated server
 - and most importantly **HAVE FUN**
 
-### Some of the mods that I added are:
+
+### Mods
+Some of the mods that I added are:
 - [Easy Anvils](https://modrinth.com/mod/easy-anvils)
 - [Easy Magic](https://modrinth.com/mod/easy-magic)
 - [Easy Shulker Boxes](https://modrinth.com/mod/easy-shulker-boxes)
@@ -40,3 +42,6 @@
 - [Vivecraft](https://modrinth.com/mod/vivecraft)
 - [Waystones](https://modrinth.com/mod/waystones)
 - [Tom's Simple Storage Mod](https://modrinth.com/mod/toms-storage)
+
+
+The modpack was created with [Fabulously Optimized](https://modrinth.com/modpack/fabulously-optimized) as the base and mods were added on top to make for a better multiplayer or singleplayer playthrough.
