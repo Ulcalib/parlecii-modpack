@@ -1,11 +1,10 @@
 # Modpack can be downloaded from [Parlecii Pack](https://modrinth.com/modpack/parlecii-pack)
 
 
-This modpack aims to give a mostly vanilla experience and is meant to be played with friends.
-
+**This modpack aims to give a mostly vanilla experience and is meant to be played with friends.**
 
 ### Features
-With the modpack You and Your friends can:
+ With the modpack You and Your friends can:
 - play in VR
 - use shaders
 - talk with your friends in game
@@ -17,7 +16,7 @@ With the modpack You and Your friends can:
 - and most importantly **HAVE FUN**
 
 
-### Mods
+### Mods(*)
 Some of the mods that I added are:
 - [Easy Anvils](https://modrinth.com/mod/easy-anvils)
 - [Easy Magic](https://modrinth.com/mod/easy-magic)
@@ -43,5 +42,8 @@ Some of the mods that I added are:
 - [Waystones](https://modrinth.com/mod/waystones)
 - [Tom's Simple Storage Mod](https://modrinth.com/mod/toms-storage)
 
+(*)mods only in relase version and subject to change depending on availability
 
-The modpack was created with [Fabulously Optimized](https://modrinth.com/modpack/fabulously-optimized) as the base and mods were added on top to make for a better multiplayer or singleplayer playthrough.
+**The modpack was created with [Fabulously Optimized](https://modrinth.com/modpack/fabulously-optimized)(*) as the base and mods were added on top to make for a better multiplayer or singleplayer playthrough.**
+
+(*)from alpha 1.0.2 the modpack will be based on [Simply Optimized](https://modrinth.com/modpack/sop)
