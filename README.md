@@ -9,10 +9,8 @@
 - use shaders
 - talk with your friends in game
 - build with some new blocks
-- experience the four seasons
-- be entranced by the wavy capes
+- experience the four seasons synchronized to real world seasons
 - store your items, the way Tom wants
-- host your world with [e4mc](https://modrinth.com/mod/e4mc), to play if you dont have a dedicated server
 - and most importantly **HAVE FUN**
 
 
@@ -30,13 +28,15 @@ Some of the mods that I added are:
 - [CraftPresence](https://modrinth.com/mod/craftpresence)
 - [Lootr](https://modrinth.com/mod/lootr)
 - [Inventory Management](https://modrinth.com/mod/inventory-management)
-- [Harvest with ease](https://modrinth.com/mod/harvest-with-ease)
-- [Rechiseled](https://modrinth.com/mod/rechiseled)
+- [RightClickHarvest](https://modrinth.com/mod/rightclickharvest)
+- [Chisel Reborn](https://modrinth.com/mod/chisel-reborn)
 - [Serene Seasons](https://modrinth.com/mod/serene-seasons)
+- [Real Serene Seasons](https://modrinth.com/mod/real-serene-seasons)
+- [Liteminer](https://modrinth.com/mod/liteminer)
+- [Extreme sound muffler](https://modrinth.com/mod/extreme_sound_muffler)
 - [Simple Voice Chat](https://modrinth.com/mod/simple-voice-chat)
 - [Not Enough Animations](https://modrinth.com/mod/not-enough-animations)
-- [Sound Physics Remastered](https://modrinth.com/mod/sound-physics-remastered)
-- [Spawn Animations](https://modrinth.com/mod/spawn-animations)
+- [Sound Physics Perfected](https://modrinth.com/mod/sound-physics-perfected)
 - [Status Effect Bars](https://modrinth.com/mod/status-effect-bars)
 - [Vivecraft](https://modrinth.com/mod/vivecraft)
 - [Waystones](https://modrinth.com/mod/waystones)
@@ -44,6 +44,5 @@ Some of the mods that I added are:
 
 (*)mods only in relase version and subject to change depending on availability
 
-**The modpack was created with [Fabulously Optimized](https://modrinth.com/modpack/fabulously-optimized)(*) as the base and mods were added on top to make for a better multiplayer or singleplayer playthrough.**
+**The modpack was created with [Simply Optimized](https://modrinth.com/modpack/sop) as the base and mods were added on top to make for a better multiplayer or singleplayer playthrough.**
 
-(*)from alpha 1.0.2 the modpack will be based on [Simply Optimized](https://modrinth.com/modpack/sop)
